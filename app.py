@@ -1,4 +1,3 @@
-from operator import ge
 import pandas as pd
 import yfinance as yf
 import altair as alt
